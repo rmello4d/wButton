@@ -1,0 +1,12 @@
+{
+    "name": "wButton",
+    "version": "1.0.0",
+    "loadDependencies": [
+        {"id": "Widget_V2"},
+        {"id": "wText/package.json", "path": "WIDGETS_CUSTOM"},
+        {"id": "wButton/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "wButton/css/widget.css", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "wButton/icons/widget.png", "studioOnly": true, "path": "WIDGETS_CUSTOM", "type":"icon"},
+        {"id": "wButton/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
+    ]
+}
